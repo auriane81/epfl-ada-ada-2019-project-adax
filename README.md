@@ -28,12 +28,19 @@ It’s a JSON document, providing references of products associated to ratings a
 # A list of internal milestones up until project milestone 2
 
 01/11 : Download the required data and set up the environment
+
 08/11 : Explore the dataset, find the issues and clean it
+
 11/11 : Classification of the products by quality, thanks to the Amazon dataset
+
 15/11 : Classification of the consumers depending on the kind of products they buy
+
 18/11 : Visualize consumption habits depending on the time features (hour, day, last command), and look for correlations
+
 22/11 : Design and add a field for each product, measuring its probability to be reordered.
-		Explore the link between the products and their ordering, trying to build a “path” toward healthier ones
+
+Explore the link between the products and their ordering, trying to build a “path” toward healthier ones
+		
 25/11 : Debug and comment the code
 
 
