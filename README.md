@@ -27,7 +27,7 @@ We would like to enrich it with Amazon product reviews : https://cseweb.ucsd.edu
 It’s a JSON document, providing references of products associated to ratings and reviews. We will use this dataset to establish an average price of the products by category (aisles). This will allow us to get an idea of the cost of each order, and thus the budget of each costumer.
 
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up until project milestone 3
 
 02/12 : Clustering of the consumers, based on the products they buy and their category. Manually label each cluster on a 'healthiness scale'
 
