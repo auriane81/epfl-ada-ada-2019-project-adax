@@ -21,11 +21,14 @@ How does each consumer budget depend on the categories of products he buys ? May
 # Dataset
 
 Instacart dataset (provided) : https://www.instacart.com/datasets/grocery-shopping-2017
-This dataset consists in 4 different tables with data regarding the orders, the products and some categorization of the products. It also contains one dataset retracing the history of orders per product and per client. 
+This dataset consists in 4 different tables with data regarding the orders, the products and some categorization of the products. It also contains one dataset retracing the history of orders per product and per client.
 
 We would like to enrich it with Amazon product reviews : https://cseweb.ucsd.edu/~jmcauley/datasets.html?fbclid=IwAR39s5O83nqUYkRBD4jol3OFu0FmcH-4dCzUtSjutOsmSd9LMZOHSGGtNxw#amazon_reviews
 It’s a JSON document, providing references of products associated to ratings and reviews. We will use this dataset to establish an average price of the products by category (aisles). This will allow us to get an idea of the cost of each order, and thus the budget of each costumer.
 
+#Note for the TAs
+
+Please read notebook "main_project", being the last up to date progress report.
 
 # A list of internal milestones up until project milestone 3
 
@@ -37,6 +40,6 @@ Associate a budget for each consumer cluster.
 10/12 : Search for products equivalents between consumers groups, based on the aisles.
 Define the probability of each product to be reordered.
 
-14/12 : Advise healthy alternative products to each consumer groups. 
-		
+14/12 : Advise healthy alternative products to each consumer groups.
+
 20/12 : Design the data story and redact the report
