@@ -24,7 +24,9 @@ This dataset consists in 4 different tables with data regarding the orders, the 
 We explored the Amazon product reviews : https://cseweb.ucsd.edu/~jmcauley/datasets.html?fbclid=IwAR39s5O83nqUYkRBD4jol3OFu0FmcH-4dCzUtSjutOsmSd9LMZOHSGGtNxw#amazon_reviews
 It’s a JSON document, providing references of products associated to ratings and reviews. We wanted to use this dataset to establish an average price of the products by category (aisles), and thus get an idea of the budget of each costumer.
 
-# Note for the TAs
+# Material
+
+The data story can be found following the link : https://eloilit.github.io/?fbclid=IwAR0bPklrxY5POWP5xcHZKq4ghEekMgjfQ8BEOUid5ZERMAsojjDRoPIxKqs
 
 Please read notebook "main_project", being the last up to date progress report.
 
