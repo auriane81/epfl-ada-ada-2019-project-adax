@@ -8,7 +8,7 @@ The study of consumption habits is a very hot topic as it can be very useful for
 
 # Material
 
-The data story can be found following the link : https://eloilit.github.io/?fbclid=IwAR0bPklrxY5POWP5xcHZKq4ghEekMgjfQ8BEOUid5ZERMAsojjDRoPIxKqs
+The data story can be found following the link : https://eloilit.github.io/
 
 Please read notebook "main_project", being the last up to date progress report.
 
