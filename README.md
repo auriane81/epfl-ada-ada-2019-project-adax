@@ -31,6 +31,7 @@ Please read notebook "main_project", being the last up to date progress report.
 # Participation
 
 Auriane Cozic : pre-analysis, clustering
-Ariane Delrocq : Amazon dataset, network
+Ariane Delrocq : Amazon dataset, graph (links between products)
 Pierre Liorit : reordering studies
 Eloi Litner : data story
+All members supervised and proofred the all code
