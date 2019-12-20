@@ -6,6 +6,13 @@ Consumption habits, for a healthier way of life
 
 The study of consumption habits is a very hot topic as it can be very useful for marketing issues, or advertisement. However, our goal here is to use data in order to help consumers directly. We give some advice regarding consumption to reorient clients’ habits toward a healthier way of life. In this project, we use purchases history of Instacart (an online delivery service) to identify the main tendencies. We expected to highlight preferred days or hours of the day to go shopping, but discovered that the consumption habits are not correlated with the healthiness of the users. However, we found links between the products, and thus were able to advise healthier alternatives to the users, hence allowing to plan a smooth transition to a more responsible consumption.
 
+# Material
+
+The data story can be found following the link : https://eloilit.github.io/?fbclid=IwAR0bPklrxY5POWP5xcHZKq4ghEekMgjfQ8BEOUid5ZERMAsojjDRoPIxKqs
+
+Please read notebook "main_project", being the last up to date progress report.
+
+
 # Research questions
 
 Can we classify consumers depending on the categories of products they buy (aisles and departments) and their repartition (fresh products, cooked meals, cans, …)?
@@ -24,9 +31,6 @@ This dataset consists in 4 different tables with data regarding the orders, the 
 We explored the Amazon product reviews : https://cseweb.ucsd.edu/~jmcauley/datasets.html?fbclid=IwAR39s5O83nqUYkRBD4jol3OFu0FmcH-4dCzUtSjutOsmSd9LMZOHSGGtNxw#amazon_reviews
 It’s a JSON document, providing references of products associated to ratings and reviews. We wanted to use this dataset to establish an average price of the products by category (aisles), and thus get an idea of the budget of each costumer.
 
-# Note for the TAs
-
-Please read notebook "main_project", being the last up to date progress report.
 
 # Participation
 
